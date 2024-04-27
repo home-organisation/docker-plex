@@ -1,4 +1,4 @@
-#Last package update 20 April 2024
+#Last package update 27 April 2024
 FROM plexinc/pms-docker:latest
 LABEL Maintainer="bizalu"
 
